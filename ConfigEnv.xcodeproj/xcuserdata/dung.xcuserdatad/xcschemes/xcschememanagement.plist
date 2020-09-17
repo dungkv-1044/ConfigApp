@@ -9,6 +9,24 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>ConfigEnvStaging.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>13</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>B69714A1251398C200CFA049</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>B6D0D514251396D2008B1DE1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 	</dict>
 </dict>
 </plist>
